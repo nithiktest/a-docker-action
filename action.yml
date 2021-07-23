@@ -1,4 +1,4 @@
-name: "My Docker action"
+name: "My Docker action-nik"
 
 description: 'Simply running a bash command and showing the time it executed'
 
